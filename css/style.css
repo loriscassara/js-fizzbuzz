@@ -1,0 +1,25 @@
+/*************** 
+    COMMON UI ELEMENTS
+***************/
+
+* { font-family: 'Roboto', sans-serif; }
+
+body {
+    background-color: #222;
+    color: white;
+}
+
+/*************** 
+    MAIN ELEMENTS
+***************/
+
+.container {
+    width: 1000px;
+    height: auto;
+    margin: 0 auto;
+}
+
+.cell {
+    width: 100px;
+    height: 100px;
+}
